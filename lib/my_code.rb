@@ -4,4 +4,4 @@ def fadi_map_result{ [ num1,num2,mun3,num4;return_negative]}
 
     Result_negative = {|n| n * -1})
     puts result_negative 
-  end 
+end 
